@@ -4,9 +4,8 @@
     id="cordova-plugin-zip"
     version="3.0.0">
   <engines>
-    <engine name="cordova" version=">=3.3.0" />
+    <engine name="cordova" version=">=2.4.0" />
   </engines>
-  <dependency id="org.apache.cordova.file" version=">=1.0.1" />
 
   <name>cordova-plugin-zip</name>
   <description>Unzips zip files</description>
